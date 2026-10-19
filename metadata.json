@@ -1,0 +1,6 @@
+{
+  "name": "말랑이 & 슬라임 3D ASMR 스튜디오",
+  "description": "다양한 질감(스퀴시, 슬라임, 크런치 말랑이 등)과 리얼한 ASMR 사운드를 즐길 수 있는 3D 인터랙티브 말랑이 시뮬레이터",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
